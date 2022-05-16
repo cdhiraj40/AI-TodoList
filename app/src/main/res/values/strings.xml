@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AI Todo List</string>
+    <string name="title_activity_main">AI Todo List</string>
+    <string name="title_activity_add_task">Add Task</string>
+    <string name="description">Add description</string>
+    <string name="add_title">Add title</string>
+    <string name="create_task">Create Task</string>
+</resources>
